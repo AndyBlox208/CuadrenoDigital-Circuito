@@ -1,8 +1,10 @@
 # 📓 Diseño de Circuitos — Cuaderno digital
 
 **Nombre:** Andy Vladimir Ordoñez Namcela
+
 **Unidad 1:** Lógica combinacional con diseño clásico · **Semanas 1–4**
 Carrera de Computación · UNL · 2.º ciclo A · Ing. Luis Darío Sinche Cueva, Mg.
+
 **Resultado de aprendizaje R1:** diseña e implementa circuitos combinacionales básicos con técnicas de diseño clásico.
 
 ## Índice
