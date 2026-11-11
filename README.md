@@ -274,19 +274,6 @@ Sem 4: aplicar todo → semisumador, sumador completo, resta, comparador
 
 ---
 
-## Pendientes y fechas
-
-- [x] APE 01 — compuertas en Logisim-evolution
-- [x] APE 02 — formas canónicas y simplificación algebraica (martes 20)
-- [ ] Cuestionario 03 (EVA): Karnaugh e indiferentes
-- [ ] APE 03 — martes 27: mapa resuelto + conversión a NAND de la función de la guía
-- [ ] Acta de conformación del equipo del proyecto integrador + lectura de guía y rúbrica
-- [ ] Cuestionario 04 (EVA) + diseño previo APE 04 (tabla y ecuaciones del sumador completo en papel)
-- [ ] APE 04 — martes 27 de octubre, 07:30–09:30, laboratorio
-
-> *Nota: revisa las fechas de APE 03 y APE 04 en el EVA, porque en los PDFs ambas aparecen en "martes 27".*
-
----
 
 ## Referencias
 - Carpinelli (2023). Texto base: mapas de Karnaugh, indiferentes y circuitos aritméticos.
