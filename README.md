@@ -11,7 +11,7 @@ Carrera de Computación · UNL · 2.º ciclo A · Ing. Luis Darío Sinche Cueva,
 - [Semana 3 — Mapas de Karnaugh, indiferentes y NAND/NOR](#semana-3--mapas-de-karnaugh-indiferentes-y-nandnor)
 - [Semana 4 — Circuitos aritméticos](#semana-4--circuitos-aritméticos)
 - [Mapa de la unidad](#mapa-de-la-unidad)
-- [Pendientes y fechas](#pendientes-y-fechas)
+- [Referencias](#referencias)
 
 ---
 
